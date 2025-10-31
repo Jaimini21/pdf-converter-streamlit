@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+pandas
+python-docx
+openpyxl
+pillow
+pdfminer.six
